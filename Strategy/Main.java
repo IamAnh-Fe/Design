@@ -5,5 +5,7 @@ public class Main {
     Duck mallard = new MallardDuck();
     mallard.performFly();
     mallard.performQuack();
+    mallard.setFlyBehavior(new FlyNoWay());
+    mallard.performFly();
   }
 }
