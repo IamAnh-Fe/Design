@@ -1,4 +1,4 @@
-package headfirst.designpatterns.command.remote;
+package Command.Remote;
 
 public class StereoOffCommand implements Command {
 	Stereo stereo;

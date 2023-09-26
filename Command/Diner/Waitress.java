@@ -1,4 +1,4 @@
-package headfirst.designpatterns.command.diner;
+package Command.Diner;
 
 public class Waitress {
 	Order order;

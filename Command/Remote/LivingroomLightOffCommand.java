@@ -1,4 +1,4 @@
-package headfirst.designpatterns.command.remote;
+package Command.Remote;
 
 public class LivingroomLightOffCommand implements Command {
 	Light light;

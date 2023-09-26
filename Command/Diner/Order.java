@@ -1,4 +1,4 @@
-package headfirst.designpatterns.command.diner;
+package Command.Diner;
 
 @FunctionalInterface
 public interface Order {

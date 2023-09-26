@@ -1,4 +1,4 @@
-package headfirst.designpatterns.command.diner;
+package Command.Diner;
 
 public class Diner {
 	public static void main(String[] args) {

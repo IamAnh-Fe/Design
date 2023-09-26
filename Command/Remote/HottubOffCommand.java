@@ -1,4 +1,4 @@
-package headfirst.designpatterns.command.remote;
+package Command.Remote;
 
 public class HottubOffCommand implements Command {
 	Hottub hottub;
